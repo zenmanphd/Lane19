@@ -12,7 +12,9 @@ header {
     text-align: center;
 }
 body {
-    background-color: rgb(124, 47, 47);
+    background-image: url('downtown.jpg');
+    background-size: cover;
+    background-attachment: fixed;
 }
 .links {
     background-color: rgba(140, 195, 244, 0.537);
