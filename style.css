@@ -12,4 +12,10 @@ body {
 }
 .links {
     background-color: rgba(140, 195, 244, 0.537);
+    text-align: center;
+    border: 2px solid rgb(36, 69, 134);
+    border-radius: 8px;
+    width: 15%;
+    padding: 5px;
+    margin: auto;
 }
