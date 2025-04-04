@@ -6,6 +6,7 @@ a {
 }
 header {
     background-color: rgba(140, 195, 244, 0.537);
+    text-align: center;
 }
 body {
     background-color: rgb(124, 47, 47);
