@@ -1,4 +1,5 @@
 h1 {
+    font-size: x-large;
     color: aliceblue;
 }
 a {
@@ -8,7 +9,6 @@ a:hover {
     color: rgb(253, 128, 234);
 }
 header {
-    background-color: rgba(140, 195, 244, 0.537);
     text-align: center;
 }
 body {
