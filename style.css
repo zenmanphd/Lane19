@@ -23,6 +23,7 @@ header {
 }
 .wrapper {
     width: 100;
+    height: auto;
     position: relative;
     overflow: hidden;
     display: flex;
