@@ -1,9 +1,12 @@
 h1 {
     font-size: x-large;
     color: aliceblue;
+    font-family: century, gothic;
 }
 a {
     color: aliceblue;
+    font-size: large;
+    font-family: century, gothic;
 }
 a:hover {
     color: rgb(253, 128, 234);
@@ -23,6 +26,7 @@ header {
 }
 .wrapper {
     width: 100;
+    height: 100;
     height: auto;
     position: relative;
     overflow: hidden;
