@@ -41,5 +41,8 @@ header {
     object-fit: cover;
 }
 body {
-    padding-bottom: 20px;
+    min-height: 100%;
+}
+html {
+    height: 100%;
 }
