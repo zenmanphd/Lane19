@@ -40,3 +40,6 @@ header {
     left: 0%;
     object-fit: cover;
 }
+body {
+    padding-bottom: 20px;
+}
