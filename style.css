@@ -29,6 +29,7 @@ header {
     position: relative;
     overflow: hidden;
     display: flex;
+    box-sizing: border-box;
 }
 .vids {
     position: absolute;
