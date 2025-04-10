@@ -2,7 +2,9 @@ h1 {
     font-size: x-large;
     color: aliceblue;
     font-family: century, gothic;
-    text-align: center;
+}
+.title {
+    margin-left: 5%;
 }
 a {
     color: aliceblue;
