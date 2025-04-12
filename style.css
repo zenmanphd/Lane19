@@ -45,9 +45,4 @@ header {
     left: 0%;
     object-fit: cover;
 }
-body {
-    min-height: 100%;
-}
-html {
-    min-height: 100%;
-}
+
