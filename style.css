@@ -27,6 +27,7 @@ header {
     padding: 30px;
     margin: auto;
     margin-top: 10%;
+    height: auto;
 }
 .wrapper {
     width: 100;
