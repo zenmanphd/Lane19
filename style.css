@@ -27,6 +27,17 @@ a:hover {
     margin-top: 10%;
     height: auto;
 }
+.links {
+    background-color: rgba(140, 195, 244, 0.537);
+    text-align: center;
+    border: 2px solid rgb(254, 89, 238);
+    border-radius: 8px;
+    width: 15%;
+    padding: 30px;
+    margin: auto;
+    margin-top: 10%;
+    height: auto; 
+}
 .wrapper {
     width: 100;
     position: relative;
