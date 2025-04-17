@@ -5,8 +5,13 @@ h1 {
 }
 .title {
     margin-left: 10%;
-    font-size: 40px;
+    font-size: 45px;
 }
+ .title:hover {
+            font-size: 55px;
+            -webkit-text-stroke: 2px rgb(250, 229, 69);
+            color: transparent;
+        }
 a {
     color: aliceblue;
     font-size: x-large;
