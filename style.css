@@ -3,6 +3,10 @@ h1 {
     color: aliceblue;
     font-family: century gothic;
 }
+h1:hover {
+    -webkit-text-stroke: 2px rgb(69, 238, 250);
+            color: transparent;
+}
 .title {
     margin-left: 10%;
     font-size: 45px;
