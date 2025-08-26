@@ -58,11 +58,11 @@ p {
     background-color: rgba(140, 195, 244, 0.537);
     text-align: center;
     border: 2px solid rgb(89, 254, 111);
-    border-radius: 8px;
+    border-radius: 10px;
     width: 15%;
     padding: 30px;
     margin: auto;
-    margin-top: 10%;
+    margin-top: 20%;
     height: auto; 
 }
 .wrapper {
