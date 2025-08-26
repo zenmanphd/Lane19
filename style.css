@@ -24,6 +24,9 @@ a:hover {
     color: #59f3d2;
     font-size: 25px;
 }
+p {
+    color: rgba(137, 43, 226, 0.7);
+}
 .links {
     background-color: rgba(140, 195, 244, 0.537);
     text-align: center;
