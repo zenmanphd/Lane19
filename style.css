@@ -54,6 +54,17 @@ p {
     margin-top: 10%;
     height: auto; 
 }
+.link3 {
+    background-color: rgba(140, 195, 244, 0.537);
+    text-align: center;
+    border: 2px solid rgb(89, 254, 111);
+    border-radius: 8px;
+    width: 15%;
+    padding: 30px;
+    margin: auto;
+    margin-top: 10%;
+    height: auto; 
+}
 .wrapper {
     width: 100;
     position: relative;
