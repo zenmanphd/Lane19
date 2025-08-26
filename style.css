@@ -1,3 +1,6 @@
+header {
+    width: 15%;
+}
 h1 {
     font: size 30px;;
     color: aliceblue;
@@ -25,7 +28,7 @@ a:hover {
     font-size: 25px;
 }
 p {
-    color: rgb(137, 43, 226);
+    color: rgb(183, 114, 247);
     font-family: century gothic;
 }
 .links {
