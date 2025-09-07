@@ -81,4 +81,8 @@ p {
     left: 0%;
     object-fit: cover;
 }
-
+button {
+    color: azure;
+    background-color: transparent;
+    border: 1px solid rgb(65, 196, 196);
+}

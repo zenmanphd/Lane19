@@ -74,8 +74,14 @@
     </div>
     <br>
     <br>
-    <button onclick="">Click here for positive affirmation</button>
+    <button onclick="playAudio1()" type="button">click for atmosphere</button>
+            <audio id="phantogram"><source src="phantogram.mp3" type="audio/mpeg" style="display:none;">tell me a story</audio>
 </div>
-    
+<script>
+    const x = document.getElementById("phantogram");
+    function playAudio1(){
+      x.play();
+    }
+</script>    
 </body>
 </html>
