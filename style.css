@@ -88,6 +88,7 @@ button {
     border-radius: 8px;
 }
 button:hover {
-    color: rgb(191, 132, 247);
-    border: 2px solid rgb(191, 132, 247);
+    color: rgb(203, 158, 246);
+    border: 2px solid rgb(203, 158, 246);
+    font-size: larger;
 }
