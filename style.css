@@ -71,6 +71,8 @@ p {
     overflow: hidden;
     display: flex;
     box-sizing: border-box;
+    margin-bottom: 0;
+    padding: 0;
 }
 .vids {
     position: absolute;
