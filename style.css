@@ -82,7 +82,7 @@ p {
     object-fit: cover;
 }
 button {
-    color: azure;
+    color: rgb(65, 196, 196);
     background-color: transparent;
     border: 2px solid rgb(65, 196, 196);
     border-radius: 8px;
