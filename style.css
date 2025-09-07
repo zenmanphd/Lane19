@@ -92,3 +92,7 @@ button:hover {
     border: 2px solid rgb(203, 158, 246);
     font-size: larger;
 }
+html, body {
+    margin: 0;
+    padding: 0;
+}
