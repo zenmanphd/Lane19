@@ -88,6 +88,6 @@ button {
     border-radius: 8px;
 }
 button:hover {
-    color: blueviolet;
-    border: 2px solid blueviolet;
+    color: rgb(191, 132, 247);
+    border: 2px solid rgb(191, 132, 247);
 }
