@@ -14,8 +14,9 @@
     <p><i>Web design by Andre' Bailey - 
         writer, philosopher, cage fighter...</i></p>
         <br>
-        <button onclick="playAudio1()" type="button">click for atmosphere</button>
-            <audio id="phantogram"><source src="phantogram.mp3" type="audio/mpeg" style="display:none;">tell me a story</audio>
+         <button onclick="playRandomSong()">click for ambience</button>
+            <audio id="audioPlayer"></audio>
+
     </header>
     <video autoplay loop muted plays-inline class="vids">
         <source src="city2.mp4" type="video/mp4">
@@ -77,9 +78,24 @@
     </div>
 </div>
 <script>
-    const x = document.getElementById("phantogram");
-    function playAudio1(){
-      x.play();
+    const songs = [
+      "phantogram.mp3",
+      "phantoashes.mp3"
+      
+    ];
+
+    function playRandomSong() {
+      const audioPlayer = document.getElementById("audioPlayer");
+
+      // Pick a random song
+      const randomIndex = Math.floor(Math.random() * songs.length);
+      const randomSong = songs[randomIndex];
+
+      // Set the audio source and play
+      audioPlayer.src = randomSong;
+      audioPlayer.play();
+
+      console.log("Now playing:", randomSong);
     }
 </script>    
 </body>
