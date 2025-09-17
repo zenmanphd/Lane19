@@ -43,6 +43,11 @@ p {
     margin-top: 10%;
     height: auto;
 }
+.Links a{
+    display: flex;        
+    flex-wrap: wrap;      
+    gap: 10px;     
+}
 .links2 {
     background-color: rgba(140, 195, 244, 0.537);
     text-align: center;
