@@ -43,7 +43,7 @@ p {
     margin-top: 10%;
     height: auto;
 }
-.Links a{
+.Links a {
     display: flex;        
     flex-wrap: wrap;      
     gap: 10px;     
