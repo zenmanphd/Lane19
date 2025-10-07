@@ -32,6 +32,15 @@ p {
     color: rgb(253, 141, 241);
     font-family: Latin Roman;
 }
+#madlink {
+    color: rgb(239, 210, 96);
+    font-size: x-large;
+    font-family: century gothic;
+}
+#madlink:hover {
+    color: #59f3d2;
+    font-size: 25px;
+}
 .links {
     background-color: rgba(140, 195, 244, 0.537);
     text-align: center;
